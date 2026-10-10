@@ -9,4 +9,4 @@ Here is a pcb editor image.
 Here is a 3d render: 
 <img width="551" height="428" alt="image" src="https://github.com/user-attachments/assets/a3bde511-3b2b-40cd-8587-ac21c153f639" />
 
-
+Found the some parts to be cheaper on ebay so I made sure to have the cheapest but best parts selected.
